@@ -17,8 +17,10 @@ export default function App() {
 
   // 
     
-    {/* <NavigationContainer>
+    {/* just for fun
 
+     <NavigationContainer>
+     
       <AppNavigator />
     </NavigationContainer> */}
 
